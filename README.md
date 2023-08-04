@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a **Data Team Leader Falconi**<br>👯 I’m looking to collaborate on **AI/ML projects**<br>🌱 I’m currently learning about **LLMs and how to deploy them**<br>💬 Ask me about **AutoEncoders (I love them!)**<br>⚡ Fun fact, I can bend my own ear!
+🔭 I’m currently working as a **Data Team Leader Falconi**<br>👯 I’m looking to collaborate on **AI/ML projects**<br>🌱 I’m currently learning about **MLOps, MLFlow, Kedro and BentoML**<br>💬 Ask me about **AutoEncoders (I love them!)**<br>⚡ Fun fact, I can bend my own ear!
 
 
 ## 🌐 Socials:
