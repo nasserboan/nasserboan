@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working as a **Data Team Leader Falconi**<br>
 👯 I’m looking to collaborate on **Costumer segmentation and commercial intelligence projects**<br>
-🌱 I’m currently learning about **MLOps, MLFlow, Kedro and BentoML**<br>
+🌱 I’m currently learning about **CausalNex, Kedro (QuantumBlack hit me up!)**<br>
 💬 Ask me about **AutoEncoders (I love them!)**<br>
 ⚡ Fun fact, I can bend my own ear!
 
