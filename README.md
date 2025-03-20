@@ -1,8 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working as a **Lead Data Scientist (NLP)**<br>
+🔭 I’m currently working as a **Data Scientist**<br>
 👯 I’m looking to collaborate on **MLOps Projects**<br>
 🌱 I’m currently learning about **CausalNex, Kedro (QuantumBlack hit me up!)**<br>
-💬 Ask me about **AutoEncoders (I love them!)**<br>
 ⚡ Fun fact, I can bend my own ear!
 
 
