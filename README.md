@@ -68,11 +68,6 @@ party_trick: can bend his own ear   # load-bearing personality trait
 
 ## `observability/`
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nasserboan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasserboan&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" alt="top langs" />
-</p>
-
 ```yaml
 talks_and_teaching:
   - PyData Brasília — MLflow for experiment tracking
