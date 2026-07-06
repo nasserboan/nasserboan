@@ -66,37 +66,6 @@ party_trick: can bend his own ear   # load-bearing personality trait
 
 ---
 
-## `services/` — running in production
-
-### 🔗 Lineage — SQL data lineage as a service
-FastAPI service that extracts table & column lineage from SQL and emits it to **OpenMetadata**. The design is the point: a deterministic **SQLGlot** parser handles the common case, and a **CrewAI + Ollama** agent only wakes up when the parser can't infer the relationship.
-
-```mermaid
-flowchart TD
-    Q["SQL query"] --> P["SQLGlot parser<br/>deterministic and cheap"]
-    P -->|parsed| G["Lineage graph"]
-    P -->|no match| A["CrewAI + Ollama<br/>agent fallback"]
-    A --> G
-    G --> OM["OpenMetadata catalog"]
-    style P fill:#3fb950,stroke:#2ea043,color:#fff
-    style A fill:#d29922,stroke:#bb8009,color:#fff
-    style G fill:#1f6feb,stroke:#1158c7,color:#fff
-```
-
-### 🤖 Finance RAG — documents in, answers out
-Full stack, end to end: **FastAPI + MongoDB + Next.js**. PDFs parsed to markdown with `docling`, chunked and embedded into **ChromaDB**, retrieved by a **LangChain** agent. Ingestion runs as a DAG; the whole thing ships on Docker Compose.
-
-### 🌾 agri-curve — MLOps on GitOps rails
-Reproducible ML on **Kubernetes (Minikube) + ArgoCD**. Every experiment and hyperparameter declared as code, `kubectl`-driven pipelines, volume-mounted data.
-
-### 🚴 bike-sharing — the craft, kept sharp
-Classic-ML discipline with **LightGBM**: RMSLE from **0.32 → 0.28** through careful temporal splits and right-skew handling. Proof that the fundamentals didn't leave when the LLMs arrived.
-
-### 📡 mcp-omd · mcp-poc — Model Context Protocol servers
-Teaching LLMs to talk to my tools instead of the other way around.
-
----
-
 ## `observability/`
 
 <p align="center">
