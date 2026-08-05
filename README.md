@@ -21,14 +21,14 @@
 
 ```mermaid
 flowchart LR
-    DS["Data Science<br/>2020–2023"] -->|scale it| MLOps["MLOps<br/>2023–2025"]
+    DS["Data Science<br/>2018–2023"] -->|scale it| MLOps["MLOps<br/>2023–2025"]
     MLOps -->|make it reason| AI["AI Engineering<br/>2025–2026"]
     style DS fill:#1f6feb,stroke:#1f6feb,color:#fff
     style MLOps fill:#8957e5,stroke:#8957e5,color:#fff
     style AI fill:#3fb950,stroke:#3fb950,color:#fff
 ```
 
-**Data Science** taught me rigor — temporal splits, skew, the difference between a good metric and a lucky one. The model, it turned out, was 10% of the job; the pipeline was the rest. **MLOps** taught me to own that rest — the plumbing that feeds, monitors, and retrains a model long after training. **AI Engineering** taught me restraint: language models rewrote the rulebook, but an LLM is a tool, not a default — so I stopped reaching for one when a deterministic path will do.
+**Data Science** taught me rigor ... temporal splits, skew, the difference between a good metric and a lucky one. The model, it turned out, was 10% of the job; the pipeline was the rest. **MLOps** taught me to own that rest — the plumbing that feeds, monitors, and retrains a model long after training. **AI Engineering** taught me restraint: language models rewrote the rulebook, but an LLM is a tool, not a default so I stopped reaching for one when a deterministic path will do.
 
 ---
 
