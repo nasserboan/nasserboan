@@ -1,4 +1,4 @@
-<h1 align="center"><code>nasserboan</code> — deployed to production since 2015</h1>
+<h1 align="center"><code>nasserboan</code> breaking production since 2015</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=3FB950&center=true&vCenter=true&width=560&lines=Senior+ML+%2F+AI+Engineer;Deterministic+first%2C+LLM+as+fallback;I+ship+models%2C+not+notebooks;Homelab+status%3A+operational" alt="what I do" />
