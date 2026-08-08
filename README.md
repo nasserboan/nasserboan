@@ -17,7 +17,7 @@
 
 ---
 
-## `pipeline.dag` — how I got here
+## how I got here
 
 ```mermaid
 flowchart LR
